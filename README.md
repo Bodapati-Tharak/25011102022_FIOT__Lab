@@ -5,8 +5,8 @@
 **Institution:** Shiv Nadar University, Chennai — Department of Computer Science & Engineering  
 **Academic Year:** II Year / 3rd Semester B. Tech CSE (IoT) Section B
 
-**Student Name:** SAKETH PATRI  
-**Student Register Number:** 25011102092  
+**Student Name:** Y. VISHAL VARMA  
+**Student Register Number:** 25011102118  
 
 ---
 
